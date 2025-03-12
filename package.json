@@ -4,6 +4,9 @@
     "scripts": {
   "dev": "vite",
   "build": "vite build"
+}
+  "dev": "vite",
+  "build": "vite build"
     },
     "dependencies": {
       "qwik": "^1.0.57"
